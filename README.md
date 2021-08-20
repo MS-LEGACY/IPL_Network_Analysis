@@ -38,7 +38,7 @@ nodes with thicker edges and more incoming edges have won a greater number of ma
 against the team form which the edges are originating from. The size of the nodes are directly
 proportional to the in-degree of that node.
 The page ranking algorithm for ranking of the reams is as follows.<br>
-![image](https://user-images.githubusercontent.com/64634411/130266692-0489dc01-9dfb-4db7-82ed-04328821f500.png)
+![image](https://user-images.githubusercontent.com/64634411/130266692-0489dc01-9dfb-4db7-82ed-04328821f500.png) <br>
 Where w ji is the weight of an edge and the variable S jout = ∑i w ji is the out-strength of a link. pi
 is the PageRank score assigned to team i, and it represents the fraction of the overall “influence”
 when applied to the steady state of the diffusion process on vertex i. The equation is applied to all
@@ -66,4 +66,4 @@ that of the node from which is originating from.
 
 
 ## Read More
-Please read the detailed description in this [PDF]()
+Please read the detailed description in this [PDF](https://drive.google.com/file/d/17Vrr8R6SUPi8ybUSl9qfFSHA4a2QdaIq/view?usp=sharing)

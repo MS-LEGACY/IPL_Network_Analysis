@@ -1,4 +1,4 @@
-#Social Network Analysis of Indian Premier League (IPL) Cricket Teams and Batsmen.
+# Social Network Analysis of Indian Premier League (IPL) Cricket Teams and Batsmen.
 ## Abstract
 The aim of the paper is to analyze the team and player data using the matches played in the Indian
 Premier League (IPL) which is franchise-based cricket league played in India, involving players

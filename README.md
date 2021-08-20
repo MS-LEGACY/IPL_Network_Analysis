@@ -14,3 +14,4 @@ improving the partnerships between different batsmen. Using the various centrali
 have tried and identified the key batsmen in a team that are effective partnership formers teams
 should help honing their performance and retain these players as they are very good.
 ## Read More
+Please read the detailed description in this [PDF]()

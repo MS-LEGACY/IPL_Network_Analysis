@@ -30,13 +30,14 @@ the matches won by team j against team i. The resulting graph in Fig.1 is constr
 software as it gives beautiful graphs that can by analyzed by exporting the data to NetworkX
 software. The thickness of the edges is proportional to the weights of edges. While size of nodes
 is based on in-degree strength of nodes.
+<br>
 ![image](https://user-images.githubusercontent.com/64634411/130266796-ad195eab-a7fb-4051-a1ae-7be7942b1ba9.png)
 
 The edges are colored with respect to the color of the nodes they are directed towards, hence
 nodes with thicker edges and more incoming edges have won a greater number of matches
 against the team form which the edges are originating from. The size of the nodes are directly
 proportional to the in-degree of that node.
-The page ranking algorithm for ranking of the reams is as follows.
+The page ranking algorithm for ranking of the reams is as follows.<br>
 ![image](https://user-images.githubusercontent.com/64634411/130266692-0489dc01-9dfb-4db7-82ed-04328821f500.png)
 Where w ji is the weight of an edge and the variable S jout = ∑i w ji is the out-strength of a link. pi
 is the PageRank score assigned to team i, and it represents the fraction of the overall “influence”
